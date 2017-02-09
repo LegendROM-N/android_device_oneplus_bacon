@@ -258,3 +258,4 @@ endif
 
 # Inherit from oppo-common
 $(call inherit-product, device/oppo/common/common.mk)
+I_WANT_A_QUAIL_STAR=true
