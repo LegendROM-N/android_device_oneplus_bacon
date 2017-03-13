@@ -199,10 +199,6 @@ endif
 endif
 
 #Optimizations
-O3_OPTS := true
-STRICT_ALIASING := true
-POLLY_OPTS := true
-GRAPHITE_OPTS := true
 WITH_DEXPREOPT=true
 
 -include vendor/oneplus/bacon/BoardConfigVendor.mk
