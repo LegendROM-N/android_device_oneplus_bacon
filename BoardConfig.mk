@@ -198,7 +198,4 @@ TARGET_LDPRELOAD := libNimsWrap.so
 endif
 endif
 
-#Optimizations
-WITH_DEXPREOPT=true
-
 -include vendor/oneplus/bacon/BoardConfigVendor.mk
